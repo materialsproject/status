@@ -1,39 +1,41 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: materialsproject # Your GitHub organization or username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: Materials Project Public
+    url: https://materialsproject.org
+  - name: Materials Project Development
+    url: https://next-gen.materialsproject.org
+  - name: Materials Project API
+    url: https://api.materialsproject.org
+  - name: Materials Project Authentication
+    url: https://profile.materialsproject.org
+  - name: MPContribs
+    url: https://contribs.materialsproject.org
+#   - name: Test for HEAD
+#     method: HEAD
+#     url: https://www.google.com
+#   - name: Secret Site
+#     url: $SECRET_SITE
+#   - name: TCP ping
+#     url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://next-gen.materialsproject.org/assets/images/home/materials-project-logo.svg
+  name: Materials Project
+  introTitle: "**Materials Project** is an open-access database of predicted materials properties."
+  introMessage: This status page reports the uptime for the services we provide and tracks any on-going incidents.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Materials Project
+      href: https://materialsproject.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
