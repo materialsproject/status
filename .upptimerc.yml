@@ -24,9 +24,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.materialsproject.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status
+  # baseUrl: /status
   logoUrl: https://next-gen.materialsproject.org/assets/images/home/materials-project-logo.svg
   name: Materials Project
   introTitle: "**Materials Project** is an open-access database of predicted materials properties."
