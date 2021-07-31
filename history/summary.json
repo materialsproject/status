@@ -76,17 +76,17 @@
     "url": "https://contribs.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/contribs.materialsproject.org",
     "slug": "mp-contribs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 180,
-    "timeWeek": 354,
-    "timeMonth": 627,
-    "timeYear": 525,
+    "time": 521,
+    "timeDay": 115,
+    "timeWeek": 316,
+    "timeMonth": 612,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   }
 ]
