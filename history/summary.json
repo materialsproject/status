@@ -4,7 +4,7 @@
     "url": "https://materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/materialsproject.org",
     "slug": "materials-project-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1409,
     "timeDay": 366,
     "timeWeek": 402,
-    "timeMonth": 1009,
+    "timeMonth": 954,
     "timeYear": 1409,
     "dailyMinutesDown": {}
   },
