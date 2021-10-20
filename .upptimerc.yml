@@ -14,6 +14,8 @@ sites:
     url: https://profile.materialsproject.org
   - name: MPContribs
     url: https://contribs.materialsproject.org
+  - name: Legacy Materials Project Website
+    url: https://legacy.materialsproject.org
 #   - name: Test for HEAD
 #     method: HEAD
 #     url: https://www.google.com
@@ -30,7 +32,7 @@ status-website:
   logoUrl: https://next-gen.materialsproject.org/assets/images/home/materials-project-logo.svg
   name: Materials Project
   introTitle: "**Materials Project** is an open-access database of predicted materials properties."
-  introMessage: This status page reports the uptime for the services we provide and tracks any on-going incidents.
+  introMessage: This status page reports the uptime for the services we provide and tracks any on-going incidents. If you have been redirected to this page when trying to visit materialsproject.org, it is likely because there is an ongoing incident or planned maintenance.
   navbar:
     - title: Status
       href: /
