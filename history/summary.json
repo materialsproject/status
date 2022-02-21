@@ -94,7 +94,7 @@
     "url": "https://legacy.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/legacy.materialsproject.org",
     "slug": "legacy-materials-project-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 854,
-    "timeWeek": 2143,
+    "timeWeek": 458,
     "timeMonth": 1150,
     "timeYear": 1024,
     "dailyMinutesDown": {}
