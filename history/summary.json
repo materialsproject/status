@@ -31,7 +31,7 @@
     "time": 345,
     "timeDay": 193,
     "timeWeek": 232,
-    "timeMonth": 588,
+    "timeMonth": 366,
     "timeYear": 345,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 475,
     "timeDay": 279,
     "timeWeek": 319,
-    "timeMonth": 1286,
+    "timeMonth": 419,
     "timeYear": 475,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 406,
     "timeDay": 115,
     "timeWeek": 178,
-    "timeMonth": 326,
+    "timeMonth": 330,
     "timeYear": 406,
     "dailyMinutesDown": {}
   },
@@ -94,17 +94,17 @@
     "url": "https://legacy.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/legacy.materialsproject.org",
     "slug": "legacy-materials-project-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 3410,
-    "timeWeek": 2525,
-    "timeMonth": 1635,
-    "timeYear": 1107,
+    "time": 1186,
+    "timeDay": 7892,
+    "timeWeek": 3383,
+    "timeMonth": 1979,
+    "timeYear": 1186,
     "dailyMinutesDown": {}
   }
 ]
