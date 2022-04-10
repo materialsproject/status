@@ -94,17 +94,17 @@
     "url": "https://legacy.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/legacy.materialsproject.org",
     "slug": "legacy-materials-project-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2129,
-    "timeDay": 332,
-    "timeWeek": 6433,
-    "timeMonth": 4470,
-    "timeYear": 2129,
+    "time": 2123,
+    "timeDay": 455,
+    "timeWeek": 6238,
+    "timeMonth": 4423,
+    "timeYear": 2123,
     "dailyMinutesDown": {}
   }
 ]
