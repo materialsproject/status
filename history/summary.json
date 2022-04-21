@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1728,
-    "timeDay": 5340,
+    "timeDay": 578,
     "timeWeek": 3140,
     "timeMonth": 4951,
     "timeYear": 1728,
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 479,
-    "timeWeek": 904,
+    "timeWeek": 350,
     "timeMonth": 539,
     "timeYear": 376,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 613,
-    "timeWeek": 852,
+    "timeWeek": 305,
     "timeMonth": 510,
     "timeYear": 491,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 243,
-    "timeWeek": 800,
+    "timeWeek": 263,
     "timeMonth": 467,
     "timeYear": 367,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 417,
     "timeDay": 484,
-    "timeWeek": 825,
+    "timeWeek": 294,
     "timeMonth": 447,
     "timeYear": 419,
     "dailyMinutesDown": {}
@@ -94,17 +94,17 @@
     "url": "https://legacy.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/legacy.materialsproject.org",
     "slug": "legacy-materials-project-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2055,
-    "timeDay": 547,
-    "timeWeek": 1873,
-    "timeMonth": 3615,
-    "timeYear": 2055,
+    "time": 2048,
+    "timeDay": 323,
+    "timeWeek": 1725,
+    "timeMonth": 3612,
+    "timeYear": 2048,
     "dailyMinutesDown": {}
   }
 ]
