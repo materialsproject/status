@@ -4,7 +4,7 @@
     "url": "https://materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/materialsproject.org",
     "slug": "materials-project-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 169,
     "timeWeek": 1067,
     "timeMonth": 1811,
-    "timeYear": 1739,
+    "timeYear": 1715,
     "dailyMinutesDown": {}
   },
   {
@@ -94,16 +94,16 @@
     "url": "https://legacy.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/legacy.materialsproject.org",
     "slug": "legacy-materials-project-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1977,
-    "timeDay": 395,
+    "timeDay": 181,
     "timeWeek": 382,
-    "timeMonth": 1152,
+    "timeMonth": 1165,
     "timeYear": 1977,
     "dailyMinutesDown": {}
   }
