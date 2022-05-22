@@ -22,7 +22,7 @@
     "url": "https://next-gen.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/next-gen.materialsproject.org",
     "slug": "materials-project-development",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 366,
     "timeDay": 350,
     "timeWeek": 348,
-    "timeMonth": 351,
+    "timeMonth": 352,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
