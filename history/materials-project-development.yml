@@ -1,7 +1,7 @@
 url: https://next-gen.materialsproject.org
-status: down
-code: 403
+status: up
+code: 200
 responseTime: 192
-lastUpdated: 2022-07-07T19:41:50.044Z
+lastUpdated: 2022-07-07T19:48:33.107Z
 startTime: Wed Apr 14 2021 18:21:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
