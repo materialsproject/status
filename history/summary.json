@@ -22,16 +22,16 @@
     "url": "https://next-gen.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/next-gen.materialsproject.org",
     "slug": "materials-project-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 255,
+    "timeDay": 257,
     "timeWeek": 308,
-    "timeMonth": 321,
+    "timeMonth": 322,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 507,
     "timeDay": 389,
     "timeWeek": 358,
-    "timeMonth": 361,
+    "timeMonth": 362,
     "timeYear": 507,
     "dailyMinutesDown": {}
   }
