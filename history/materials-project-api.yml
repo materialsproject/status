@@ -1,7 +1,7 @@
 url: https://api.materialsproject.org
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2022-10-04T19:52:16.951Z
+status: down
+code: 520
+responseTime: 5243
+lastUpdated: 2022-10-04T21:55:11.679Z
 startTime: Wed Apr 14 2021 18:21:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
