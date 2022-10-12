@@ -26,7 +26,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.materialsproject.org
+  # cname: status.materialsproject.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
   logoUrl: https://next-gen.materialsproject.org/assets/images/home/materials-project-logo.svg
