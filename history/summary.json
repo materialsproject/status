@@ -4,17 +4,17 @@
     "url": "https://materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/materialsproject.org",
     "slug": "materials-project-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 86,
-    "timeWeek": 488,
-    "timeMonth": 397,
-    "timeYear": 488,
+    "time": 510,
+    "timeDay": 2751,
+    "timeWeek": 558,
+    "timeMonth": 402,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 1883,
-    "timeWeek": 313,
+    "timeWeek": 311,
     "timeMonth": 325,
     "timeYear": 373,
     "dailyMinutesDown": {}
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 355,
     "timeDay": 261,
-    "timeWeek": 878,
-    "timeMonth": 420,
+    "timeWeek": 1020,
+    "timeMonth": 422,
     "timeYear": 354,
     "dailyMinutesDown": {}
   },
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 254,
     "timeDay": 117,
-    "timeWeek": 241,
+    "timeWeek": 243,
     "timeMonth": 256,
     "timeYear": 255,
     "dailyMinutesDown": {}
@@ -84,8 +84,8 @@
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 206,
-    "timeWeek": 226,
-    "timeMonth": 244,
+    "timeWeek": 232,
+    "timeMonth": 245,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 462,
     "timeDay": 245,
     "timeWeek": 665,
-    "timeMonth": 413,
+    "timeMonth": 416,
     "timeYear": 462,
     "dailyMinutesDown": {}
   }
