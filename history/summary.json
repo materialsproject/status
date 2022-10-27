@@ -13,7 +13,7 @@
     "time": 508,
     "timeDay": 272,
     "timeWeek": 316,
-    "timeMonth": 413,
+    "timeMonth": 415,
     "timeYear": 484,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 373,
     "timeDay": 113,
     "timeWeek": 868,
-    "timeMonth": 377,
+    "timeMonth": 379,
     "timeYear": 374,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "https://api.materialsproject.org",
     "icon": "https://favicons.githubusercontent.com/api.materialsproject.org",
     "slug": "materials-project-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 238,
-    "timeWeek": 907,
-    "timeMonth": 536,
-    "timeYear": 354,
+    "time": 357,
+    "timeDay": 2725,
+    "timeWeek": 1337,
+    "timeMonth": 550,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 257,
     "timeDay": 695,
     "timeWeek": 891,
-    "timeMonth": 304,
+    "timeMonth": 306,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 462,
     "timeDay": 509,
     "timeWeek": 469,
-    "timeMonth": 462,
+    "timeMonth": 464,
     "timeYear": 462,
     "dailyMinutesDown": {}
   }
